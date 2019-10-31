@@ -5,6 +5,7 @@
 ### OKR学习记录
  什么是OKR ？<br>
  我们为什么要使用OKR ？<br>
+ OKR和KPI有何区别 ？<br>
  
  ### OKR实操
  学习 “黄勇的OKR实战笔记” 的OKR <br>
