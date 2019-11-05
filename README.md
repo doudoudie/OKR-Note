@@ -1,4 +1,4 @@
-# OKR-note
+# OKR手记
 
  记录学习和应用ORK的心得 欢迎监督
 
@@ -6,6 +6,7 @@
  什么是OKR ？<br>
  我们为什么要使用OKR ？<br>
  OKR和KPI有何区别 ？<br>
+ 
  
  ### OKR实操
  学习 “黄勇的OKR实战笔记” 的OKR <br>
